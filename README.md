@@ -31,6 +31,3 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@-dreamboys2520)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dreamboys0107@gmai.com)
 
----
-
-> "Building the decentralized future, one block at a time."
